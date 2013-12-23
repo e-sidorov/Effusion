@@ -1,7 +1,7 @@
 Effusion
 ========
 
-This repository contains programm that was developed during our research for the article:
+This repository contains a programm that was developed during our research for the article:
 
 "EFFUSION – A NEW SOPHISTICATED INJECTOR FOR NGINX WEB SERVERS" 
 
