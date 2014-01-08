@@ -7,7 +7,7 @@ This repository contains a program that was developed during our research for th
 
 The article was published in Virus Bulletin Magazine in January, 2014.
 
-Using this program you can decrypt configurations of the Effusion samples. 
+Using this program you can decrypt configurations of Effusion samples. 
 
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/e-sidorov/effusion/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
